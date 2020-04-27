@@ -1,0 +1,72 @@
+body, html {
+    font-family: 'Rubik', sans-serif;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.font-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+@media screen and (min-width : 300px) and (max-width : 650px)  {
+    :root
+    {
+        font-size: 9px !important;
+    }
+    
+}
+
+@media screen and (min-width : 1000px) and (max-width : 1025px)  {
+    :root
+    {
+        font-size: 10px !important;
+    }
+    
+}
+
+@media screen and (min-width : 1023px) and (max-width: 1151px) and (min-height: 550px)  {
+    :root
+    {
+        font-size: 10px;
+    }
+    
+}
+
+@media screen and (min-width: 1152px) and (max-width: 1279px) and (min-height: 550px)  {
+    :root
+    {
+        font-size: 11.2px;
+    }
+    
+}
+
+@media screen and (min-width: 1280px) and (max-width: 1365px)  and  (min-height: 550px) {
+    :root
+    {
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width: 1366px) and (max-width: 1439px)  and  (min-height: 550px) {
+    :root
+    {
+        font-size: 13.2px;
+    }
+}
+
+@media screen and (min-width: 1440px) and (max-width: 1679px) and (min-height: 550px) {
+    :root
+    {
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 1680px)  and (max-width: 1940px) and (min-height: 550px){
+    :root
+    {
+        font-size: 16px;
+    }
+
+ }
+
